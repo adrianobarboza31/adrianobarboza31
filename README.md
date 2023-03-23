@@ -3,8 +3,8 @@
 ## i'm adriano and i'm a web developer
 
 ## About Me
-### I'm 20 years old and my passion is soccer and I support an Italian team called AC Milan, my favorite soccer player is Messi.
-### My favorite foods are pizza and pasta
+ I'm 20 years old and my passion is soccer and I support an Italian team called AC Milan, my favorite soccer player is Messi.
+My favorite foods are pizza and pasta
 
 ## Skills
 ### html, css, javascript, php ,laravel, vue
