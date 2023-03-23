@@ -3,12 +3,18 @@
 ## Skills
 html, css, javascript, php ,laravel, vue
 
+## Experience
+**BOOLEAN CAREERS**
+
+During the training course I was able to create projects both independently and in groups. Some projects I made are real replicas of various applications such as Netflix, WhatsApp web, Digital Ocean, Spotify web and many others.
+
+
 ## About Me
  I'm 20 years old and my passion is soccer and I support an Italian team called AC Milan, my favorite soccer player is Messi.
  My favorite foods are pizza and pasta
 
 
- ![](/GettyImages-1450127078.png)
+ ![messi](/GettyImages-1450127078.png)
 
 <!--
 **adrianobarboza31/adrianobarboza31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
