@@ -2,10 +2,12 @@
 
 ## About Me
  I'm 20 years old and my passion is soccer and I support an Italian team called AC Milan, my favorite soccer player is Messi.
-My favorite foods are pizza and pasta
+ My favorite foods are pizza and pasta
 
+
+ ![](/GettyImages-1450127078.png)
 ## Skills
-### html, css, javascript, php ,laravel, vue
+html, css, javascript, php ,laravel, vue
 
 <!--
 **adrianobarboza31/adrianobarboza31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
