@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## i'm adriano and i'm a web developer
+# Hi there 👋 i'm adriano and i'm a web developer
 
 ## About Me
  I'm 20 years old and my passion is soccer and I support an Italian team called AC Milan, my favorite soccer player is Messi.
